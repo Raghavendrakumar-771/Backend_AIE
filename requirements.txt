@@ -6,4 +6,4 @@ chromadb
 sentence-transformers
 groq
 pypdf
- 
+faiss-cpu
