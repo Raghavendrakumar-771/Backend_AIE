@@ -7,3 +7,4 @@ sentence-transformers
 groq
 pypdf
 faiss-cpu
+python-multipart
